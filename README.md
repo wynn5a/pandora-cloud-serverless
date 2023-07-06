@@ -28,3 +28,5 @@
 * 以上Serverless平台使用，还请阅读各自的官方文档。
 * 详细代码看 `entrypoint.py`，内含一些环境变量，看不懂不建议改动。
 * 更多问题可以查看主项目：[Pandora](https://github.com/pengzhile/pandora)
+
+### Update to redeploy - 20230706
